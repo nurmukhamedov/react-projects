@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import CockTailList from '../CockTailList';
 
 const Home = () => {
   return (
-    <div>Home</div>
+     <main>
+       <CockTailList/>
+     </main>
   )
 }
 
